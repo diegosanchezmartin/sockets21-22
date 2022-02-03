@@ -1,0 +1,5 @@
+GET /docencia.html k
+GET /facultad.html c
+DAME /index.html c
+GET /docencia.html k
+GET /index.html c
